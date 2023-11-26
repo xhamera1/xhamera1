@@ -1,7 +1,6 @@
 # Witaj na moim profilu GitHub!
-### Przydatne linki
 
-- [Moja Strona]((https://xhamera1.github.io/))
+## Link do mojego profilu [website](https://xhamera1.github.io) 👍
 
 
 ## O mnie
