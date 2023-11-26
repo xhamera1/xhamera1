@@ -1,5 +1,7 @@
 # Witaj na moim profilu GitHub!
 
+Link do mojej strony: xhamera1.github.io
+
 ## O mnie
 Nazywam się Patryk Chamera. Jestem studentem pierwszego roku na AGH w Krakowie, gdzie pochłaniam wiedzę z zakresu informatyki i systemów inteligentnych. Fascynuje mnie świat kodowania, a moja przygoda z programowaniem dopiero się zaczęła.
 
