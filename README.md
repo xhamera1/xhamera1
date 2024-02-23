@@ -9,8 +9,6 @@
  ---
 
 
-## Link to my profile [website](https://xhamera1.github.io) 👍
-
 ## A few things needed for classes at university:
 
 ## Link to my profile [website](https://xhamera1.github.io) 👍
