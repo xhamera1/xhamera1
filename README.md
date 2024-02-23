@@ -5,7 +5,7 @@
 
 - I’m passionate about programming and mathematics.
 - I’m currently learning  `C`, `C++` and `Python`.
-- In my free time I love going to the gym, reading books and watching a good movie
+- In my free time I love going to the gym, reading books and watching a good movie.
  ---
 
 
