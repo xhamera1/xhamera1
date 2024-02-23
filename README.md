@@ -1,5 +1,6 @@
-# Hello there!! About Me:
+# Hello there!!
 ---
+## About Me:
 👋My name is **Patryk Chamera** and I’m a first-year student of *Computer Science and Intelligent Systems* at AGH-UST in Krakow. Here are some things you might want to know about me:
 
 - I’m passionate about programming and mathematics.
