@@ -13,6 +13,4 @@
 
  Link to my profile [website](https://xhamera1.github.io) 👍
 
- Link do repozytorium z artykułem z Papers with Code [website](https://github.com/xhamera1/Monkey_repozytorium_Papers_with_Code.git)
  
- Link do artykułu na Papers with Code  [website](https://paperswithcode.com/paper/monkey-image-resolution-and-text-label-are) 
