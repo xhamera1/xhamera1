@@ -8,7 +8,7 @@
 
 💻 I have a particular focus on **Java** and the **Spring Boot** ecosystem, along with database technologies like **PostgreSQL**. Driven by a passion for building **high-quality, reliable software**. 
 
-🚀 A significant area of interest for me is Artificial Intelligence, I actively seek opportunities to learn about AI concepts and enjoy hands-on experimentation with its tools and techniques.
+🚀 A significant area of interest for me is **Artificial Intelligence**, I actively seek opportunities to learn about AI concepts and enjoy hands-on experimentation with its tools and techniques.
 
 ---
 
