@@ -8,7 +8,7 @@
 
 💻 I have a particular focus on **Java** and the **Spring Boot** ecosystem, along with database technologies like **PostgreSQL**. Driven by a passion for building **high-quality, reliable software**. 
 
-🚀 A significant area of interest for me is **Artificial Intelligence**, I actively seek opportunities to learn about AI concepts and enjoy hands-on experimentation with its tools and techniques.
+💪 I am highly motivated and hardworking, with strong adaptability, making me a valuable team member eager to learn and grow.
 
 ---
 
@@ -48,6 +48,7 @@ Here are some of the technologies I enjoy working with:
 When I step away from the code, I enjoy staying active and recharging:
 * ⛰️ Hiking
 * 💪 Hitting the gym
+* 🚀 Artificial Intelligence
 * 📚 Reading an interesting book
 * 🎬 Watching a good movie
 
