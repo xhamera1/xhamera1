@@ -51,14 +51,9 @@ Here are some of the technologies I enjoy working with:
 
 ---
 
-## 🌱 Beyond the Keyboard
+## 🌱 About me
 
-When I step away from the code, I enjoy staying active and recharging:
-* ⛰️ Hiking
-* 💪 Hitting the gym
-* 🚀 Artificial Intelligence
-* 📚 Reading an interesting book
-* 🎬 Watching a good movie
+Hiking and gym enthusiast, fan of good cinema, with a passion for exploring artificial intelligence.
 
 ---
 
