@@ -43,6 +43,14 @@ Here are some of the technologies I enjoy working with:
 
 ---
 
+### 🎓 Certifications
+
+* **Amazon Junior Software Developer Professional Certificate**
+    * Issued by: Amazon
+    * *[Verify Credential](https://www.coursera.org/account/accomplishments/specialization/certificate/NED8K1HZ4HJP)*
+
+---
+
 ## 🌱 Beyond the Keyboard
 
 When I step away from the code, I enjoy staying active and recharging:
