@@ -60,7 +60,7 @@ Hiking and gym enthusiast, fan of good cinema, with a passion for exploring arti
 ## 🗣️ Languages
 
 * **Polish:** Native
-* **English:** Professional Working Proficiency (B2/C1)
+* **English:** Professional Working Proficiency (B2)
 
 ---
 
