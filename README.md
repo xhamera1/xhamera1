@@ -2,13 +2,9 @@
 
 ---
 
-🎓 Currently a **2nd-year Computer Science and Intelligent Systems student** at **AGH University of Krakow**, where I dive into the exciting world of technology and problem-solving. 🚀
+🎓 Currently a **2nd-year Computer Science and Intelligent Systems student** at **AGH University of Krakow**.
 
-🎯 I'm actively seeking **Software Engineering internship opportunities**. I'm eager to contribute to real-world projects, collaborate with experienced professionals, and keep learning.
-
-💻 I have a particular focus on **Java** and the **Spring Boot** ecosystem, along with database technologies like **PostgreSQL**. Driven by a passion for building **high-quality, reliable software**. 
-
-💪 I am highly motivated and hardworking, with strong adaptability, making me a valuable team member eager to learn and grow.
+🚀 Passionate about software development, I am dedicated to continuous learning, collaborative teamwork, and making meaningful contributions to practical projects.
 
 ---
 
@@ -26,10 +22,6 @@ Here are some of the technologies I enjoy working with:
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" alt="C"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -42,7 +34,7 @@ Here are some of the technologies I enjoy working with:
 * **Frameworks & Libraries:** .NET, Spring Boot, Spring Framework, JDBC, JPA, JUnit
 * **Databases:** PostgreSQL, MySQL
 * **Tools & Environment:** Git, IntelliJ IDEA,VS Code, Linux, SonarQube, Docker
-* **Other Languages:** C (Basic), C++ (Basic), HTML/CSS (Basic)
+* **Other Languages:** C++ (Basic), HTML/CSS (Basic)
 * **Key Concepts:** Object-Oriented Programming (OOP), SOLID Principles, Data Structures & Algorithms, REST APIs, Database Management, Code Quality & Testing
 
 ---
@@ -72,7 +64,7 @@ Hiking and gym enthusiast, fan of good cinema, with a passion for exploring arti
 ## 🗣️ Languages
 
 * **Polish:** Native
-* **English:** Professional Working Proficiency (B2)
+* **English:** B2
 
 ---
 
