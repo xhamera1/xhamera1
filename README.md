@@ -2,7 +2,7 @@
 
 ---
 
-🎓 Currently a **2nd-year Computer Science and Intelligent Systems student** at **AGH University of Krakow**.
+🎓 Currently a **3nd-year Computer Science and Intelligent Systems student** at **AGH University of Krakow**.
 
 🚀 Passionate about software development, I am dedicated to continuous learning, collaborative teamwork, and making meaningful contributions to practical projects.
 
@@ -33,9 +33,22 @@ Here are some of the technologies I enjoy working with:
 * **Core Languages:** Java, C#, Python, SQL
 * **Frameworks & Libraries:** .NET, Spring Boot, Spring Framework, JDBC, JPA, JUnit
 * **Databases:** PostgreSQL, MySQL
-* **Tools & Environment:** Git, IntelliJ IDEA,VS Code, Linux, SonarQube, Docker
+* **Tools & Environment:** Git, IntelliJ IDEA, VS Code, Linux, SonarQube, Docker, SoapUI
 * **Other Languages:** C++ (Basic), HTML/CSS (Basic)
-* **Key Concepts:** Object-Oriented Programming (OOP), SOLID Principles, Data Structures & Algorithms, REST APIs, Database Management, Code Quality & Testing
+* **Key Concepts:** Object-Oriented Programming (OOP), SOLID Principles, Data Structures & Algorithms, REST APIs, Database Management, Code Quality & Testing, Agile/Scrum
+
+
+
+---
+
+## 💼 Professional Experience
+
+**Software Quality Assurance Engineer I** at **Sabre Corporation**  
+*July 2025 - Present*
+
+* API testing and test automation using SoapUI and C#
+* Working in Agile/Scrum development environment
+* Ensuring software quality through comprehensive testing strategies
 
 ---
 
@@ -75,6 +88,3 @@ Feel free to reach out:
 * 🔗 LinkedIn: [Patryk Chamera](https://www.linkedin.com/in/patryk-chamera-309835289/)
 * 📧 Email: [chamerapatryk@gmail.com](mailto:chamerapatryk@gmail.com)
 
-## ✨ Visitor Counter
-
-![Visitor Count](https://profile-counter.glitch.me/xhamera1/count.svg)
