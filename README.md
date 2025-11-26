@@ -17,11 +17,11 @@ Outside of work and studies, I enjoy hiking, going to the gym, watching good mov
 
 ## Technical Skills
 
-- Programming: Java, C#, Python, SQL, C++ (basic), HTML/CSS (basic).
-- Frameworks & Libraries: .NET, Spring Boot, Spring Framework, JDBC, JPA, JUnit.
-- Databases: PostgreSQL, MySQL.
-- Tools & Platforms: Git, IntelliJ IDEA, VS Code, Linux, SonarQube, Docker, SoapUI.
-- Core Concepts: Object‑oriented programming (OOP), SOLID principles, data structures and algorithms, REST API design, database management, code quality and testing, Agile/Scrum.
+- Programming: Java, C#, Python, SQL, C++ (basic), HTML/CSS/js (basic).
+- Frameworks & Libraries: .NET, Spring Boot, React
+- Databases: PostgreSQL, MySQL, Oracle
+- Tools & Platforms: Git, Linux, SonarQube, Docker, SoapUI, Jenkins (CI/CD), GCP, Splunk
+- Core Concepts: SOLID principles, data structures and algorithms, REST API design, database management, code quality and testing, Agile/Scrum.
 
 ---
 
