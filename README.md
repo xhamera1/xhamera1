@@ -49,7 +49,7 @@ Outside of work and studies, I enjoy hiking, going to the gym, watching good mov
 ## Interactive CV
 
 - Interactive CV with selected projects:  
-  [My CV website with personal projects](https://thankful-bay-05e320d03.6.azurestaticapps.net/)
+  [My CV website with personal projects](https://xhamera1.github.io/Web-CV/index.html)
 
 ---
 
