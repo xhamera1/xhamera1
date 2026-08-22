@@ -1,59 +1,85 @@
 # Hi, I'm Patryk Chamera
 
-Software Quality Assurance Engineer I at Sabre Hospitality Solutions. 
+**Software Quality Assurance Engineer I** at Aven Hospitality (previously Sabre Hospitality Solutions) 
 
-3rd-year Computer Science and Intelligent Systems student at AGH University of Krakow.
+3rd-year **Computer Science and Intelligent Systems** student at AGH University of Krakow.
 
 Outside of work and studies, I enjoy hiking, going to the gym, watching good movies, and exploring artificial intelligence.
 
 ---
 
+## Projects
+
+Full-stack apps, ML systems, and academic work:
+
+**[View my projects →](https://xhamera1.github.io/Web-CV/projects.html)**
+
+---
+
 ## Professional Experience
 
-- Software Quality Assurance Engineer I — Sabre Hospitality Solutions (Jul 2025 – Present):  
-  API testing and test automation using SoapUI and C#; working in an Agile/Scrum environment; ensuring software quality through well‑designed and comprehensive testing strategies.
+**Software Quality Assurance Engineer I** — Aven Hospitality *(Nov 2025 – Present)*  
+- API automation in **SoapUI/Postman** and **C#**; **Jira/Rally** administration; **Agile/Scrum** collaboration with broader quality ownership.  
+- **CI/CD** and **Jenkins**; **releases and cutovers**; rollout monitoring and go-live readiness with **Splunk**.  
+- Demos for **Product Owners**; presenting features and communicating release status to stakeholders.
+
+**Intern / Software Quality Assurance Engineer I** — Sabre Hospitality Solutions *(Jul 2025 – Nov 2025)*  
+- API automation in **SoapUI** and **C#** under senior engineers in an **Agile/Scrum** team.  
+- **Jira/Rally** page setup, defect logging, and functional validation of hospitality platform APIs.
+
+**Customer Service Representative (Helpline)** — Canal Plus *(Summer 2023)*  
+- Technical and subscription support via phone and email; problem-solving and client communication in a fast-paced environment.
 
 ---
 
 ## Technical Skills
 
-- Programming: Java, C#, Python, SQL, C++ (basic), HTML/CSS/js (basic).
-- Frameworks & Libraries: .NET, Spring Boot, React
-- Databases: PostgreSQL, MySQL, Oracle
-- Tools & Platforms: Git, Linux, SonarQube, Docker, SoapUI, Jenkins (CI/CD), GCP, Splunk
-- Core Concepts: SOLID principles, data structures and algorithms, REST API design, database management, code quality and testing, Agile/Scrum.
+**Programming:** Java · C# · Python · SQL · C++ (basic) · HTML/CSS/JS  
+
+**Frameworks & Libraries:** .NET · Spring Boot · React · FastAPI · Flask · TensorFlow/PyTorch  
+
+**Databases:** PostgreSQL · MySQL · Oracle  
+
+**QA & DevOps:** SoapUI · Postman · Jenkins (CI/CD) · Git · Docker · SonarQube · Splunk · GCP  
+
+**Project & Delivery:** Jira · Rally · Agile/Scrum · REST API · release & cutover support  
+
+**Core Concepts:** SOLID · data structures & algorithms · code quality · automation · database design  
+
+**AI/ML (projects & studies):** scikit-learn · NLP (BERT) · computer vision · GNNs · reinforcement learning (Gymnasium, SB3)
+
+---
+
+## Interactive CV
+
+**[My CV website](https://xhamera1.github.io/Web-CV/index.html)** — full profile, experience, and skills.
 
 ---
 
 ## Languages
 
-- English (B2).
-- Polish (native).  
+- **English** (B2)  
+- **Polish** (native)
 
 ---
 
 ## Education
 
-- AGH University of Krakow — Computer Science and Intelligent Systems (3rd year).
+**AGH University of Krakow** — Computer Science and Intelligent Systems *(3rd year, Oct 2023 – Present)*
 
 ---
 
 ## Certifications
 
-- Amazon Junior Software Developer Professional Certificate — issued by Amazon.  
-  [Verify credential](https://www.coursera.org/account/accomplishments/specialization/certificate/NED8K1HZ4HJP)
+**Amazon Junior Software Developer Professional Certificate** — Amazon  
+[Verify credential](https://www.coursera.org/account/accomplishments/specialization/certificate/NED8K1HZ4HJP)
 
 ---
 
 
-## Interactive CV
-
-- Interactive CV with selected projects:  
-  [My CV website with personal projects](https://xhamera1.github.io/Web-CV/index.html)
-
----
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/patryk-chamera-309835289/  
-- Email: chamerapatryk@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/patryk-chamera-309835289/  
+- **Email:** chamerapatryk@gmail.com  
+- **GitHub:** https://github.com/xhamera1
