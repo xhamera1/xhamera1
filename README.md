@@ -1,10 +1,12 @@
 # Hi, I'm Patryk Chamera
 
-**Software Quality Assurance Engineer I** at Aven Hospitality (previously Sabre Hospitality Solutions) 
+4th-year Computer Science and Intelligent Systems student at AGH University, passionate about designing, building, and testing reliable backend software.
 
-4th-year **Computer Science and Intelligent Systems** student at AGH University of Krakow.
+Software Quality Assurance Engineer focusing on API testing and test automation with C# in Agile/Scrum teams at Sabre and now in Aven Hospitality Solution.
 
-Outside of work and studies, I enjoy hiking, going to the gym, watching good movies, and exploring artificial intelligence.
+Experienced in both developing and testing software using Java, C#, and CI/CD tooling. I focus on writing reliable code and backing it up with solid automated test strategies to ensure high-quality releases.
+
+Outside of work and studies, enjoys hiking, going to the gym, good movies, and exploring artificial intelligence.​
 
 ---
 
