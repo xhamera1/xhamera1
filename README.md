@@ -2,7 +2,7 @@
 
 **Software Quality Assurance Engineer I** at Aven Hospitality (previously Sabre Hospitality Solutions) 
 
-3rd-year **Computer Science and Intelligent Systems** student at AGH University of Krakow.
+4th-year **Computer Science and Intelligent Systems** student at AGH University of Krakow.
 
 Outside of work and studies, I enjoy hiking, going to the gym, watching good movies, and exploring artificial intelligence.
 
