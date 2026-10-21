@@ -8,6 +8,8 @@ Experienced in both developing and testing software using Java, C#, and CI/CD to
 
 Outside of work and studies, enjoys hiking, going to the gym, good movies, and exploring artificial intelligence.​
 
+**[View my CV →](https://xhamera1.github.io/Web-CV/index.html)**
+
 ---
 
 ## Projects
@@ -52,11 +54,6 @@ Full-stack apps, ML systems, and academic work:
 
 ---
 
-## Interactive CV
-
-**[My CV website](https://xhamera1.github.io/Web-CV/index.html)** — full profile, experience, and skills.
-
----
 
 ## Languages
 
@@ -67,7 +64,7 @@ Full-stack apps, ML systems, and academic work:
 
 ## Education
 
-**AGH University of Krakow** — Computer Science and Intelligent Systems *(3rd year, Oct 2023 – Present)*
+**AGH University of Krakow** — Computer Science and Intelligent Systems *(4th year, Oct 2023 – Present)*
 
 ---
 
