@@ -2,7 +2,7 @@
 
 4th-year Computer Science and Intelligent Systems student at AGH University, passionate about designing, building, and testing reliable backend software.
 
-Software Quality Assurance Engineer focusing on API testing and test automation with C# in Agile/Scrum teams at Sabre and now in Aven Hospitality Solution.
+Software Quality Assurance Engineer focusing on API testing and test automation with C# in Agile/Scrum teams at Sabre and now in Aven Hospitality Solutions.
 
 Experienced in both developing and testing software using Java, C#, and CI/CD tooling. I focus on writing reliable code and backing it up with solid automated test strategies to ensure high-quality releases.
 
